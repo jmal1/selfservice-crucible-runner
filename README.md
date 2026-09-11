@@ -35,3 +35,6 @@ docker build -t ghcr.io/jmal1/selfservice-crucible-runner:local .
 
 - Engine / API: `jmal1/selfservice-api`
 - Deploy pins: `jmal1/crucible-deploy`
+
+<!-- verified-merge noop 2026-09-11T10:48:36.6250431-07:00 -->
+
